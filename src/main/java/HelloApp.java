@@ -6,4 +6,4 @@ public class HelloApp {
             System.out.println("Hello World");
         }
     }
-}
+}// UC3 Requirement met
